@@ -1,6 +1,6 @@
 ##Peer Reviewed Publications of Ryan B. Jadrich
 
-Just click on the links provided below to open up the desired paper. Alternatively, go into the "publications" folder above and open it manually. 
+This repository hosts free versions of the papers in my [Curriculum Vitae](curriculum_vitae/curriculum_vitae.pdf). Just follow the links provided below to open up the desired paper in the online GitHub viewer. Alternatively, go into the "publications" folder above and find it manually. Once open in the GitHub viewer, the paper can be downloaded by clicking the button titled "Raw" and the download should begin. 
 
 ---
 
